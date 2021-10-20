@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: Hola Soy Kike Ballesteros
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >+
+      Especialista en diseño web, posicionamiento web, marketing online, redes
+      sociales y email marketing
+
     actions:
       - label: Let's talk
         url: /contact
